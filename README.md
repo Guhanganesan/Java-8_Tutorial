@@ -11,7 +11,7 @@
 
 # Java 8 - Features
 
-1. Lambda Expressions
+1. Lambda Expressions (argument-list) -> {body} 
 2. Default methods for interfaces
 3. Functional Interface
 4. Stream API 
@@ -19,3 +19,7 @@
 6. Default methods 
 7. Optional
 8. Nashorn, JavaScript Engine
+
+# Reference
+
+1. https://www.javatpoint.com/java-lambda-expressions
